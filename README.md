@@ -33,3 +33,5 @@ This repository is open-sourced under the MIT License — free to use, adapt, an
 
 ---
 *"A mind in bloom is a mind in motion."*
+
+<img width="1344" height="768" alt="image" src="https://github.com/user-attachments/assets/7ea54859-7194-423e-8f84-2949f2c4437a" />
